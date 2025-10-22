@@ -33,9 +33,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:triet@umich.edu'
-    label: Email
+  - icon: brands/youtube
+    url: https://www.youtube.com/@triet228
+    label: YouTube
   - icon: brands/github
     url: https://github.com/triet228
     label: Github
@@ -57,31 +57,22 @@ interests:
   - Convolutional Neural Networks
 
 education:
-  - area: PhD Aerospace Engineering
+  - area: Ph.D. Aerospace Engineering
     institution: University of Michigan
     date_start: 2025-08-25
     date_end: 2030-06-15
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+#     summary: |
+#       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+#     button:
+#       text: 'Read Thesis'
+#       url: 'https://example.com/thesis.pdf'
+  - area: B.S. Aerospace Engineering
+    institution: University of California, Irvine
+    date_start: 2022-09-25
+    date_end: 2025-06-15
+#     summary: |
+#       GPA: 3.9/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
@@ -137,7 +128,7 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Vietnamese
     percent: 100
 
