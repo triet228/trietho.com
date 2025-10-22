@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🐐
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,30 +34,33 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 'mailto:triet@umich.edu'
+    label: Email
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/triet228
+    label: Github
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/triet-ho-988276242
+    label: LinkedIn
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=gi3hgNIAAAAJ
+    label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-4109-3410
+    label: OCRID
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Electrified Aircraft
+  - Multidisciplinary Design Optimization
+  - Graph Neural Networks
+  - Autoencoder
+  - Convolutional Neural Networks
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Aerospace Engineering
+    institution: University of Michigan
+    date_start: 2025-08-25
+    date_end: 2030-06-15
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
@@ -135,8 +138,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Vietnamese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Hello, my name is Triet Ho. I'm currently 1st year Ph.D. student at Umich majoring in Aerospace Engineering. My research goal is to combine machine learning, computational research, and aerospace engineering together. Specifically, I focus on applying machine learning to Multidisciplinary Design Optimization (MDO) for electrified aircraft. Right now, I'm under Professor Gökçin Çınar in Integrated Design of Efficient Aerospace Systems (IDEAS) Lab.
