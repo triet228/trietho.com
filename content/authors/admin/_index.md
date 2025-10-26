@@ -54,10 +54,13 @@ profiles:
 
 interests:
   - Electrified Aircraft
-  - Multidisciplinary Design Optimization
-  - Graph Neural Networks
+  - Hybrid Electric Aircraft (HEA)
+  - Multidisciplinary Design Optimization (MDO)
+  - Machine Learning (ML)
+  - Neural Networks (NNs)
+  - Convolutional Neural Networks (CNNs)
   - Autoencoder
-  - Convolutional Neural Networks
+  - Generative Graph Neural Networks (GenGNNs)
 
 education:
   - area: Ph.D. Aerospace Engineering
