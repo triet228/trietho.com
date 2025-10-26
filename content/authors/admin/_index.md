@@ -163,4 +163,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Hello, my name is Triet Ho. I'm currently 1st year Ph.D. student at Umich majoring in Aerospace Engineering. My research goal is to combine machine learning, computational research, and aerospace engineering together. Specifically, I focus on applying machine learning to Multidisciplinary Design Optimization (MDO) for electrified aircraft. Right now, I'm under Professor Gökçin Çınar in Integrated Design of Efficient Aerospace Systems (IDEAS) Lab.
+Hello, my name is Triet Ho. I'm currently 1st year Ph.D. Student at Umich majoring in Aerospace Engineering. My research goal is to combine Machine Learning, Computational Research, and Aerospace Engineering together. Specifically, I focus on applying Machine Learning to Multidisciplinary Design Optimization (MDO) for Electrified Aircraft. Right now, I'm under Professor Gökçin Çınar in Integrated Design of Efficient Aerospace Systems (IDEAS) Lab.
