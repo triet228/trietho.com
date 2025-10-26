@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student and Graduate Research Assistant
+role: PhD Student and Graduate Student Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
