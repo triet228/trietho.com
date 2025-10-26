@@ -33,21 +33,24 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/youtube
-    url: https://www.youtube.com/@triet228
-    label: YouTube
-  - icon: brands/github
-    url: https://github.com/triet228
-    label: Github
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/triet-ho-988276242
     label: LinkedIn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=gi3hgNIAAAAJ
     label: Google Scholar
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0003-4109-3410
-    label: OCRID
+  - icon: brands/github
+    url: https://github.com/triet228
+    label: Github
+  - icon: brands/youtube
+    url: https://www.youtube.com/@triet228
+    label: YouTube
+  - icon: brands/instagram
+    url: https://www.instagram.com/triet2208/
+    label: Instagram
+  - icon: hero/banknotes
+    url: https://ko-fi.com/triet
+    label: Buy Triet a coffee
 
 interests:
   - Electrified Aircraft
