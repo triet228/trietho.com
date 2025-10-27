@@ -81,22 +81,57 @@ education:
 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Graduate Student Researcher Assistance
+    company_name: University of Michigan (Umich)
+    company_url: 'https://umich.edu/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2025-08-25
+    date_end: 2026-05-30 
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Contribute to [NASA project AACES](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/) to develop next-generation aircraft concepts exploration tool.
+  - position: Undergraduate Student Researcher
+    company_name: University of California, Irvine (UCI)
+    company_url: 'https://uci.edu/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-10-01
+    date_end: 2025-06-15 
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Study [Graph Neural Networks](https://research.google/pubs/a-gentle-introduction-to-graph-neural-networks/).
+  - position: UROP Researcher
+    company_name: Undergraduate Research Opportunities Program (UROP)
+    company_url: 'https://urop.uci.edu/'
+    company_logo: ''
+    date_start: 2024-07-01
+    date_end: 2024-08-31 
+    summary: |
+      [COMSOL Multiphysics Analysis for Quantum Materials under Strain](https://docs.google.com/document/d/e/2PACX-1vQ4CY5ZccQZJTdKk51BuJZRiBItAbRA6rX3foY6RnZAci0Qm-oZmRS3LaeuHDDYbufip-BrZf_-Zjsp/pub).
+#       Develope Graph Neural Networks.
+  - position: Undergraduate Student Researcher
+    company_name: University of California, Irvine (UCI)
+    company_url: 'https://uci.edu/'
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2024-05-30 
+    summary: |
+      Study [Autoencoder for High-entropy Alloy composition](https://arxiv.org/abs/2202.13753).
+  - position: LAEP Researcher
+    company_name: Learning-Aligned Employment Program (LAEP)
+    company_url: 'https://www.csac.ca.gov/learning-aligned-employment-program'
+    company_logo: ''
+    date_start: 2024-01-03
+    date_end: 2024-03-30
+    summary: |
+      Develope [Accurate and Stable Quantum Propagation Schemes](https://docs.google.com/document/d/e/2PACX-1vTotG_RCldxj1D86kot5Sa0mx9KOee3xkJL1pOa8bGAbgWwWJv-nyWKDczfpGTbU_vA_-x__3jAn_P8/pub).
+  - position: NSF Researcher
+    company_name: National Science Foundation (NSF)
+    company_url: 'https://www.nsf.gov/'
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: 2023-09-30
+    summary: |
+      Build [Neural Networks from scratch](https://colab.research.google.com/drive/1sfMXxbwucdnvVxqQsFCx6fy-a_MPRxhv?usp=sharing).
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
