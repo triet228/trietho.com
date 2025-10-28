@@ -39,17 +39,17 @@ sections:
         Currently, I'm interested in generating hybrid propulsion architectures for Hybrid Electric Aircrafts (HEAs) using Generative Graph Neural Networks (GenGNNs). Designing a hybrid propulsion architectures is a discrete combinatorial task requiring decisions on the number of components, the specific type of each component, and the topology of their connections. Therefore, it's a challenging problem for traditional optimization algorithm. I see a good opportunity in this problem because we can take advantage of data-informed architectures generation from GenGNNs, filter them down, and optimize until we get novel hybrid propulsion architectures.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+#   - block: collection
+#     id: papers
+#     content:
+#       title: Featured Publications
+#       filters:
+#         folders:
+#           - publications
+#         featured_only: true
+#     design:
+#       view: article-grid
+#       columns: 2
   - block: collection
     content:
       title: Recent Publications

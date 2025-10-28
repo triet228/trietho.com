@@ -209,4 +209,4 @@ Currently, I'm a 1st year Ph.D. Student at Univeristy of Michigan (Umich) majori
 
 In the future, I want to work at NASA as a researcher. It's been my childhood dream to work at NASA because their TV programs were the first motivation for me to pursue Aerospace Engineering degree.
 
-{{< button url="https://ko-fi.com/triet" icon="gift" style="primary" size="xl" >}}Buy Triet a coffee{{< /button >}}
+{{< button url="https://ko-fi.com/triet" icon="gift" style="primary" size="xl" new_tab="true">}}Buy Triet a coffee{{< /button >}}
