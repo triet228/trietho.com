@@ -201,4 +201,10 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Hello, my name is Triet Ho. I'm currently 1st year Ph.D. Student at Umich majoring in Aerospace Engineering. My research goal is to combine Machine Learning, Computational Research, and Aerospace Engineering together. Specifically, I focus on applying Machine Learning to Multidisciplinary Design Optimization (MDO) for Electrified Aircraft. Right now, I'm under Professor Gökçin Çınar in Integrated Design of Efficient Aerospace Systems (IDEAS) Lab.
+Hello hello, welcome to my website! My name is Triet Ho. I'm excited to have you here 😀
+
+A little bit of my background, I was born and raised for the first 14 years of my life in Vietnam. My family immigrated to America in 2019 when I was in 9th grade. After that, I went to Pacifica High School (2022) and UC Irvine for undergraduate (2025), both are in Orange County, California. 
+
+Currently, I'm a 1st year Ph.D. Student at Univeristy of Michigan (Umich) majoring in Aerospace Engineering. At Umich, I work under Professor Gökçin Çınar in Integrated Design of Efficient Aerospace Systems (IDEAS) Lab.
+
+In the future, I want to work at NASA as a researcher. It's been my childhood dream to work at NASA because their TV programs were the first motivation for me to pursue Aerospace Engineering degree.

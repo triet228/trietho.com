@@ -16,10 +16,10 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Buy Triet a coffee
+        url: "https://ko-fi.com/triet"
       headings:
-        about: ''
+        about: 'Non-Professional Summary'
         education: ''
         interests: ''
     design:
@@ -31,14 +31,12 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '✈️ My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research goal is to combine Machine Learning, Computational Research, and Aerospace Engineering together. Specifically, I focus on applying Machine Learning to Multidisciplinary Design Optimization (MDO) for Electricfied Aircraft. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Currently, I'm interested in generating hybrid propulsion architectures for Hybrid Electric Aircrafts (HEAs) using Generative Graph Neural Networks (GenGNNs). Designing a hybrid propulsion architectures is a discrete combinatorial task requiring decisions on the number of components, the specific type of each component, and the topology of their connections. Therefore, it's a challenging problem for traditional optimization algorithm. I see a good oportunity in this problem because we can take advantage of data-informed architectures generation from GenGNNs, filter them down, and optimize until we get novel hybrid propulsion architectures.
     design:
       columns: '1'
   - block: collection
