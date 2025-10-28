@@ -48,7 +48,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/triet2208/
     label: Instagram
-  - icon: hero/banknotes
+  - icon: hero/gift #banknotes
     url: https://ko-fi.com/triet
     label: Buy Triet a coffee
 
@@ -208,3 +208,5 @@ A little bit of my background, I was born and raised for the first 14 years of m
 Currently, I'm a 1st year Ph.D. Student at Univeristy of Michigan (Umich) majoring in Aerospace Engineering. At Umich, I work under Professor Gökçin Çınar in Integrated Design of Efficient Aerospace Systems (IDEAS) Lab.
 
 In the future, I want to work at NASA as a researcher. It's been my childhood dream to work at NASA because their TV programs were the first motivation for me to pursue Aerospace Engineering degree.
+
+{{< button url="https://ko-fi.com/triet" icon="gift" style="primary" size="xl" >}}Buy Triet a coffee{{< /button >}}

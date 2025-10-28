@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Buy Triet a coffee
-        url: "https://ko-fi.com/triet"
+#       button:
+#         text: Buy Triet a coffee
+#         url: "https://ko-fi.com/triet"
       headings:
         about: 'Non-Professional Summary'
         education: ''
