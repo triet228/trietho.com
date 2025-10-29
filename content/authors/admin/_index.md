@@ -32,6 +32,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# https://docs.hugoblox.com/getting-started/page-builder/#icons
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/triet-ho-988276242
@@ -48,9 +49,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/triet2208/
     label: Instagram
-  - icon: hero/gift #banknotes
-    url: https://ko-fi.com/triet
-    label: Buy Triet a coffee
+  - icon: brands/facebook
+    url: https://m.me/triet228
+    label: Facebook
 
 interests:
   - Electrified Aircraft
@@ -205,7 +206,7 @@ Hello hello, welcome to my website! My name is Triet Ho. I'm excited to have you
 
 A little bit of my background, I was born and raised for the first 14 years of my life in Vietnam. My family immigrated to America in 2019 when I was in 9th grade. After that, I went to Pacifica High School (2022) and UC Irvine for undergraduate (2025), both are in Orange County, California. 
 
-Currently, I'm a 1st year Ph.D. Student at Univeristy of Michigan (Umich) majoring in Aerospace Engineering. At Umich, I work under Professor Gökçin Çınar in Integrated Design of Efficient Aerospace Systems (IDEAS) Lab.
+Currently, I'm a 1st year Ph.D. Student at Univeristy of Michigan (Umich) majoring in Aerospace Engineering. At Umich, I work under Professor Gökçin Çınar in [Integrated Design of Efficient Aerospace Systems (IDEAS) Lab](https://www.gokcincinar.com).
 
 In the future, I want to work at NASA as a researcher. It's been my childhood dream to work at NASA because their TV programs were the first motivation for me to pursue Aerospace Engineering degree.
 
