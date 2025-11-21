@@ -175,11 +175,11 @@ skills:
         percent: 80
         icon: musical-note
 
-languages:
-  - name: English
-    percent: 80
-  - name: Vietnamese
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 80
+#   - name: Vietnamese
+#     percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

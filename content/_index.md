@@ -29,14 +29,14 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '✈️ Research'
-      subtitle: ''
-      text: |-
-        My research goal is to combine Machine Learning, Computational Research, and Aerospace Engineering together. Specifically, I focus on applying Machine Learning to Multidisciplinary Design Optimization (MDO) for Electricfied Aircraft. 
-
-        Currently, I'm interested in generating hybrid propulsion architectures for Hybrid Electric Aircrafts (HEAs) using Generative Graph Neural Networks (GenGNNs). Designing a hybrid propulsion architectures is a discrete combinatorial task requiring decisions on the number of components, the specific type of each component, and the topology of their connections. Therefore, it's a challenging problem for traditional optimization algorithm. I see a good opportunity in this problem because we can take advantage of data-informed architectures generation from GenGNNs, filter them down, and optimize until we get novel hybrid propulsion architectures.
+#   - block: markdown
+#     content:
+#       title: '✈️ Research'
+#       subtitle: ''
+#       text: |-
+#         My research goal is to combine Machine Learning, Computational Research, and Aerospace Engineering together. Specifically, I focus on applying Machine Learning to Multidisciplinary Design Optimization (MDO) for Electricfied Aircraft. 
+# 
+#         Currently, I'm interested in generating hybrid propulsion architectures for Hybrid Electric Aircrafts (HEAs) using Generative Graph Neural Networks (GenGNNs). Designing a hybrid propulsion architectures is a discrete combinatorial task requiring decisions on the number of components, the specific type of each component, and the topology of their connections. Therefore, it's a challenging problem for traditional optimization algorithm. I see a good opportunity in this problem because we can take advantage of data-informed architectures generation from GenGNNs, filter them down, and optimize until we get novel hybrid propulsion architectures.
     design:
       columns: '1'
 #   - block: collection
@@ -50,16 +50,16 @@ sections:
 #     design:
 #       view: article-grid
 #       columns: 2
-  - block: collection
-    content:
-      title: Papers
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+#   - block: collection
+#     content:
+#       title: Papers
+#       text: ''
+#       filters:
+#         folders:
+#           - publications
+#         exclude_featured: false
+#     design:
+#       view: citation
 #   - block: collection
 #     id: talks
 #     content:
