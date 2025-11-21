@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{ block "main" . }}{{ end }}
+
+    <footer class="site-footer">
+       <p>Override Successful</p>
+    </footer>
+
+    {{ partial "scripts.html" . }}
+  </body>
+</html>
