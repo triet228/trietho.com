@@ -142,34 +142,38 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
         percent: 95
+        icon: code-bracket
+      - name: MATLAB
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Fortran
+        description: ''
+        percent: 70
         icon: code-bracket
       - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Reading Comic Books
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
         icon: book-open
+      - name: Listening to Novels
+        description: ''
+        percent: 80
+        icon: musical-note
 
 languages:
   - name: English
@@ -182,27 +186,34 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+  - title: Rackham Merit Fellowship (RMF)
+    url: https://rackham.umich.edu/prospective-students/rackham-merit-fellowship-program/
+    date: '2025-02-07'
+    awarder: Rackham Graduate School
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      $270,000 grant for six semesters of funding (plus one summer).
+  - title: AI Research Grant
+    url: https://www.nsf.gov/
+    date: '2023-07-15'
+    awarder: National Science Foundation (NSF)
+    icon: hero/currency-dollar
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      $7,500 grant for research in AI development.
+  - title: Quantum Innovation Grant
+    url: https://www.csac.ca.gov/learning-aligned-employment-program
+    date: '2024-03-15'
+    awarder: California Student Aid Commission (CSAC)
+    icon: hero/currency-dollar
+    summary: |
+      $3,600 grant for research in Quantum Mechanics
+  - title: 2D Material Grant
+    url: https://urop.uci.edu/
+    date: '2024-07-15'
+    awarder: University of California, Irvine (UCI)
+    icon: hero/currency-dollar
+    summary: |
+      $2,500 grant for research in 2D Quantum Material
 ---
 
 Hello hello, welcome to my website! My name is Triet Ho. I'm excited to have you here 😀
