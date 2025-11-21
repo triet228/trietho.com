@@ -61,6 +61,9 @@ interests:
   - Neural Networks (NNs)
   - Convolutional Neural Networks (CNNs)
   - Autoencoder
+  - Generative Artificial Intelligence (GenAI)
+  - Variational Autoencoder (VAE)
+  - Generative Adversarial Networks (GANs)
   - Generative Graph Neural Networks (GenGNNs)
 
 education:
