@@ -54,10 +54,10 @@ profiles:
     label: Facebook
 
 interests:
+  - Machine Learning in Aerosapce
   - Electrified Aircraft
   - Hybrid Electric Aircraft (HEA)
   - Multidisciplinary Design Optimization (MDO)
-  - Machine Learning (ML)
   - Neural Networks (NNs)
   - Convolutional Neural Networks (CNNs)
   - Autoencoder
