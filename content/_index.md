@@ -25,6 +25,10 @@ sections:
       title: Highlights
       text: |
         <div class="max-w-7xl mx-auto space-y-16 px-4">
+
+          <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
+            <img src="/highlights/1.jpg" alt="Teamwork" class="w-full">
+          </figure>
           
           <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
             <img src="/highlights/5.png" alt="Community Impact" class="w-full">
@@ -35,11 +39,11 @@ sections:
           </figure>
 
           <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
-            <img src="/highlights/2.jpg" alt="Dynamics Class" class="w-full">
+            <img src="/highlights/6.png" alt="Community Impact" class="w-full">
           </figure>
 
           <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
-            <img src="/highlights/1.jpg" alt="Teamwork" class="w-full">
+            <img src="/highlights/2.jpg" alt="Dynamics Class" class="w-full">
           </figure>
 
           <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
