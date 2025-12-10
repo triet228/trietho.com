@@ -21,6 +21,7 @@ sections:
       spacing:
         padding: ["0", "0", "0", "0"]
   - block: markdown
+    id: highlights
     content:
       title: Highlights
       text: |

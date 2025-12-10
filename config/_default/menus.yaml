@@ -7,6 +7,9 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Highlights
+    url: /#highlights
+    weight: 15
   - name: Experience
     url: experience/
     weight: 20
