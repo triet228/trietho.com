@@ -1,7 +1,17 @@
 ---
 title: "Origin of Triet’s cat"
-date: 2024-01-24
+# date: 2025-12-10
 type: page
+
+# These lines hide the unwanted bottom elements:
+share: false           # Hides the social sharing icons (X, FB, LinkedIn)
+show_date: false       # Hides the "Last updated" date
+editable: false        # Hides the "Edit" pencil button
+commentable: false     # Hides comments section (if enabled)
+
+# Hide the reading time
+reading_time: false
+
 ---
 I draw this cat everywhere I go. Overtime, it has become my symbol. So if you ever see this cat again, you know it's Triet's related.
 
