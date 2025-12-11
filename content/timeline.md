@@ -28,9 +28,3 @@ Graduate Pacifica High School, Garden Grove, California, USA
 Graduate Bachelor's degree in Aerospace Engineering at University of California Irvine, Irvine, California, USA
 ## 2030?
 Graduate Ph.D. degree in Aerospace Engineering at University of Michigan, Ann Arbor, Michigan, USA
-
-<style>
-  .docs-footer, .page-footer {
-    display: none !important;
-  }
-</style>
