@@ -1,5 +1,5 @@
 ---
-title: "Origin of Triet’s cat"
+title: "Fun Fact"
 # date: 2025-12-10
 type: page
 
