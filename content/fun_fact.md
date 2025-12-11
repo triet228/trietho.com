@@ -31,7 +31,7 @@ The current Triet's cat is the same as the 3.0 version with slight modification 
 
 <img src="/trietcat/Triet_cat4.jpg" alt="Triet's Cat" width="300" style="background: white; padding: 20px; border-radius: 10px; margin: 20px auto; display: block;">
 
-This version has been used extensively for a long time now. Recently when I switch Operating System from Windows to Arch Linux, I replace Arch logo in neofetch with this cat.
+This version has been used extensively for a long time now. Recently when I switch Operating System from Windows to Arch Linux (I use Arch, btw), I replace Arch logo in neofetch with this cat.
 
 <img src="/trietcat/Triet_cat5.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
 
