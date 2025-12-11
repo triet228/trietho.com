@@ -39,3 +39,4 @@ In 2025, Ricky proposed to me 3D version of Triet's cat. This could potentially 
 
 <img src="/trietcat/Triet_cat6.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
 
+One problem with 3D version ,though, is that it's difficult to quickly sketch in a timely manner, so this might take a bit of practice before I can formalize it.
