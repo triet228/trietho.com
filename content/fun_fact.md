@@ -8,6 +8,7 @@ share: false           # Hides the social sharing icons (X, FB, LinkedIn)
 show_date: false       # Hides the "Last updated" date
 editable: false        # Hides the "Edit" pencil button
 commentable: false     # Hides comments section (if enabled)
+toc: false
 
 # Hide the reading time
 reading_time: false
@@ -15,6 +16,7 @@ reading_time: false
 ---
 I draw this cat everywhere I go. Overtime, it has become my symbol. So if you ever see this cat again, you know it's Triet's related.
 
+### Backstory
 In 2018, I was in 8th grade. I had to miss a day of English class because of sickness. Therefore, I borrowed notebook from the best student in the class. In her note, I saw a cat. I copied it over to my note and it becomes the first version of Triet's cat. 
 
 <img src="/trietcat/Triet_cat1.jpg" alt="Triet's Cat" width="300" style="background: white; padding: 20px; border-radius: 10px; margin: 20px auto; display: block;">
@@ -31,12 +33,36 @@ The current Triet's cat is the same as the 3.0 version with slight modification 
 
 <img src="/trietcat/Triet_cat4.jpg" alt="Triet's Cat" width="300" style="background: white; padding: 20px; border-radius: 10px; margin: 20px auto; display: block;">
 
-This version has been used extensively for a long time now. Recently when I switch Operating System from Windows to Arch Linux (I use Arch, btw), I replace Arch logo in neofetch with this cat.
-
-<img src="/trietcat/Triet_cat5.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
-
 In 2025, during MAE 136 lecture, Ricky proposed to me a 3D version of the cat. This could potentially be the 4.0 version of Triet's cat.
 
 <img src="/trietcat/Triet_cat6.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
 
 One problem with 3D version, though, is that it's difficult to quickly sketch in a timely manner, so this might take a bit of practice before I can formalize it.
+
+### Gallery
+
+<img src="/trietcat/cat1.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat2.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat3.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat4.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat5.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat6.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat7.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat8.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat9.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat10.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat11.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+
+
+
