@@ -27,6 +27,11 @@ sections:
       text: |
         <div class="max-w-7xl mx-auto space-y-16 px-4">
 
+
+          <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
+            <img src="/highlights/7.png" alt="Teamwork" class="w-full">
+          </figure>
+
           <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
             <img src="/highlights/1.jpg" alt="Teamwork" class="w-full">
           </figure>
