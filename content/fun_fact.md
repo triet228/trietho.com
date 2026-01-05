@@ -35,7 +35,7 @@ The current Triet's cat is the same as the 3.0 version with slight modification 
 
 In 2025, during MAE 136 lecture, Ricky proposed to me a 3D version of the cat. This could potentially be the 4.0 version of Triet's cat.
 
-<img src="/trietcat/Triet_cat6.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+<img src="/trietcat/Triet_cat5.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
 
 One problem with 3D version, though, is that it's difficult to quickly sketch in a timely manner, so this might take a bit of practice before I can formalize it.
 
