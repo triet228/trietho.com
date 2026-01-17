@@ -50,7 +50,7 @@ profiles:
     url: https://www.instagram.com/triet2208/
     label: Instagram
   - icon: brands/facebook
-    url: https://m.me/triet228
+    url: https://www.facebook.com/triet228/
     label: Facebook
 
 interests:
