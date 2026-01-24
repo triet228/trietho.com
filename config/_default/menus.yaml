@@ -11,6 +11,9 @@ main:
   - name: Timeline
     url: /timeline/
     weight: 21
+  - name: Courses
+    url: /courses/
+    weight: 25
   - name: Fun Fact
     url: /fun_fact/
     weight: 200
