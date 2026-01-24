@@ -7,14 +7,13 @@ editable: false
 commentable: false
 toc: false
 reading_time: false
-design: { spacing: { padding: ["3rem", "1rem", "3rem", "1rem"] } }
 ---
 <div class="max-w-4xl mx-auto space-y-16">
 <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden border border-gray-100 dark:border-gray-700 hover:shadow-2xl transition-all duration-300">
 <div class="aspect-w-16 aspect-h-9 relative" style="padding-bottom: 56.25%;">
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLhtWoD9f53K85HeyB0jBGDFqyj5hT76j3" title="Machine Learning 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="absolute top-0 left-0 w-full h-full"></iframe>
 </div>
-<div class="p-10 md:p-16 text-center" style="text-align: center;">
+<div class="text-center" style="text-align: center;">
 <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-2">Machine Learning</h3>
 <p class="text-gray-600 dark:text-gray-400 text-base mb-6">Fundamental concepts of ML: NNs, CNNs, AE, VAE.</p>
 <a href="https://www.youtube.com/playlist?list=PLhtWoD9f53K85HeyB0jBGDFqyj5hT76j3" target="_blank" class="inline-flex items-center text-red-600 font-bold hover:text-red-700 text-lg">
@@ -27,7 +26,7 @@ Watch Playlist
 <div class="aspect-w-16 aspect-h-9 relative" style="padding-bottom: 56.25%;">
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLhtWoD9f53K9nt18i0TTzmUgNmuw39wvO" title="COMSOL Multiphysics Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="absolute top-0 left-0 w-full h-full"></iframe>
 </div>
-<div class="p-10 md:p-16 text-center" style="text-align: center;">
+<div class="text-center" style="text-align: center;">
 <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-2">COMSOL Multiphysics</h3>
 <p class="text-gray-600 dark:text-gray-400 text-base mb-4">Comprehensive guide to simulation and modeling using COMSOL Multiphysics.</p>
 <a href="https://youtube.com/playlist?list=PLhtWoD9f53K9nt18i0TTzmUgNmuw39wvO" target="_blank" class="inline-flex items-center text-red-600 font-bold hover:text-red-700 text-lg">
