@@ -92,7 +92,7 @@ work:
     date_start: 2025-08-25
     date_end: 2026-05-30 
     summary: |2-
-      Contribute to [NASA project AACES](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/) to develop next-generation aircraft concepts exploration tool.
+      Contribute to [NASA project AACES](https://www.gokcincinar.com/research/aaces/) to develop next-generation aircraft concepts exploration tool.
   - position: Undergraduate Student Researcher
     company_name: University of California, Irvine (UCI)
     company_url: 'https://uci.edu/'
