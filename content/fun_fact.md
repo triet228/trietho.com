@@ -86,3 +86,5 @@ One problem with 3D version, though, is that it's difficult to quickly sketch in
 <img src="/trietcat/cat21.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
 
 <img src="/trietcat/cat22.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
+
+<img src="/trietcat/cat23.jpg" alt="Triet's Cat" width="500" style="background: white; padding: 0px; border-radius: 10px; margin: 20px auto; display: block;">
