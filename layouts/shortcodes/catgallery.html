@@ -8,8 +8,15 @@
   }
 </style>
 
+{{ $images := slice }}
 {{ range readDir "static/trietcat" }}
-  {{ if strings.HasSuffix .Name ".jpg" }}
-    <img src="/trietcat/{{ .Name }}" alt="Triet's Cat" class="cat-pic">
+  {{ $name := lower .Name }}
+  {{ if or (strings.HasSuffix $name ".jpg") (strings.HasSuffix $name ".jpeg") (strings.HasSuffix $name ".png") (strings.HasSuffix $name ".gif") }}
+    {{ $number := replaceRE "^cat([0-9]+(?:\\.[0-9]+)?).*$" "$1" $name }}
+    {{ $images = $images | append (dict "name" .Name "number" (float $number)) }}
   {{ end }}
 {{ end }}
+
+{{ range sort $images "number" "desc" }}
+    <img src="/trietcat/{{ .name }}" alt="Triet's Cat" class="cat-pic">
+  {{ end }}

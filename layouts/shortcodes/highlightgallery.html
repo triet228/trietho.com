@@ -1,0 +1,15 @@
+<div class="max-w-7xl mx-auto space-y-16 px-4">
+  {{ $images := slice }}
+  {{ range readDir "static/highlights" }}
+    {{ $name := lower .Name }}
+    {{ if or (strings.HasSuffix $name ".jpg") (strings.HasSuffix $name ".jpeg") (strings.HasSuffix $name ".png") (strings.HasSuffix $name ".gif") }}
+      {{ $images = $images | append (dict "name" .Name "number" (int (path.BaseName .Name))) }}
+    {{ end }}
+  {{ end }}
+
+  {{ range sort $images "number" "desc" }}
+      <figure class="bg-white dark:bg-gray-900 rounded-3xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden">
+        <img src="/highlights/{{ .name }}" alt="Highlight" class="w-full">
+      </figure>
+  {{ end }}
+</div>
