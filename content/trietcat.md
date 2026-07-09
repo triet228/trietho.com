@@ -1,5 +1,5 @@
 ---
-title: "Fun Fact"
+title: "Triet cat"
 # date: 2025-12-10
 type: page
 
