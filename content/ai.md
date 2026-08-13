@@ -19,14 +19,14 @@ Bring private local AI to your laptop. Connect a cable, and you are ready to run
 
 Choose the setup that best fits your workload and model size. To purchase, click the checkout button under your preferred option.
 
-<div class="grid grid-cols-1 lg:grid-cols-4 gap-6 my-10">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
   
   <!-- Base Card -->
   <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg border border-gray-100 dark:border-gray-700 p-6 flex flex-col hover:shadow-2xl transition-all duration-300">
     <h3 class="text-xl font-bold text-gray-900 dark:text-white mt-0 mb-2">Base Option</h3>
     <p class="text-4xl font-extrabold text-blue-600 dark:text-blue-400 mb-4">$500</p>
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-6">Best for: Users who already own a GPU and just need the host system.</p>
-    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8">
+    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8 list-disc list-inside ml-4">
       <li><strong>Specs:</strong> Base Triet AI Box</li>
       <li>(No dedicated GPU included)</li>
     </ul>
@@ -40,7 +40,7 @@ Choose the setup that best fits your workload and model size. To purchase, click
     <h3 class="text-xl font-bold text-gray-900 dark:text-white mt-0 mb-2">Budget Option</h3>
     <p class="text-4xl font-extrabold text-blue-600 dark:text-blue-400 mb-4">$800</p>
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-6">Best for: Running small models efficiently.</p>
-    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8">
+    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8 list-disc list-inside ml-4">
       <li><strong>Specs:</strong> Base system</li>
       <li><strong>GPU:</strong> NVIDIA RTX 3060</li>
       <li><strong>VRAM:</strong> 12 GB</li>
@@ -55,7 +55,7 @@ Choose the setup that best fits your workload and model size. To purchase, click
     <h3 class="text-xl font-bold text-gray-900 dark:text-white mt-0 mb-2">Economy Option</h3>
     <p class="text-4xl font-extrabold text-blue-600 dark:text-blue-400 mb-4">$1000</p>
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-6">Best for: A balanced mid-range option for faster inference and medium-sized models.</p>
-    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8">
+    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8 list-disc list-inside ml-4">
       <li><strong>Specs:</strong> Base system</li>
       <li><strong>GPU:</strong> NVIDIA RTX 4060 Ti</li>
       <li><strong>VRAM:</strong> 16 GB</li>
@@ -71,7 +71,7 @@ Choose the setup that best fits your workload and model size. To purchase, click
     <h3 class="text-xl font-bold text-gray-900 dark:text-white mt-0 mb-2">Premium Option</h3>
     <p class="text-4xl font-extrabold text-blue-600 dark:text-blue-400 mb-4">$1800</p>
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-6">Best for: Maximum performance and memory capacity for running large models natively.</p>
-    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8">
+    <ul class="flex-1 space-y-2 text-sm text-gray-700 dark:text-gray-300 mb-8 list-disc list-inside ml-4">
       <li><strong>Specs:</strong> Base system</li>
       <li><strong>GPU:</strong> NVIDIA RTX 3090</li>
       <li><strong>VRAM:</strong> 24 GB</li>
