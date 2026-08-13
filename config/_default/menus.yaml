@@ -17,3 +17,6 @@ main:
   - name: Triet cat
     url: /trietcat/
     weight: 200
+  - name: AI
+    url: /ai/
+    weight: 300
