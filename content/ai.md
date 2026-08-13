@@ -18,6 +18,7 @@ reading_time: false
   </div>
 </div>
 
+---
 ### Introducing plug-and-play local AI box
 All you need to do it connect a cable from Triet AI Box to your laptop (USB A or USB C), open any browser, go to [local.ai](http://ai.local/) and you are ready to run powerful open-source AI models. 
 
@@ -27,7 +28,7 @@ All you need to do it connect a cable from Triet AI Box to your laptop (USB A or
 
 ---
 
-<h3 class="text-3xl font-extrabold text-center text-gray-900 dark:text-white mt-12 mb-8">Pricing</h3>
+<h3 class="text-3xl font-extrabold text-left text-gray-900 dark:text-white mt-12 mb-8">Pricing</h3>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
   
