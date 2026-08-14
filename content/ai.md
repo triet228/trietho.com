@@ -20,7 +20,7 @@ reading_time: false
 
 ---
 ### Introducing plug-and-play local AI box
-All you need to do it connect a cable from Triet AI Box to your laptop (USB A or USB C), open any browser, go to [local.ai](http://ai.local/) and you are ready to run your own local AI models. No internet, no subscription, no API fee. You own everything!
+All you need to do is connect a cable from Triet AI Box to your laptop (USB A or USB C), open any browser, go to [local.ai](http://ai.local/) and you are ready to run your own local AI models. No internet, no subscription, no API fee. You own everything!
 
 <div class="my-6 text-center">
   <img src="/Software.gif" alt="Triet AI Box Software Demo" class="mx-auto rounded-xl shadow-lg max-w-full h-auto" width="600">
